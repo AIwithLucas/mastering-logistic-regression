@@ -2,11 +2,10 @@
 
 ### 1. Theoretical Mastery
 
-- Mathematical Concepts
-  - sigmoid function & its properties
-  - logit function and probability interpretation
-  - cost function (log-loss)
-  - gradient descent optimization for logistic regression
+    - sigmoid function & its properties
+    - logit function and probability interpretation
+    - cost function (log-loss)
+    - gradient descent optimization for logistic regression
 
 ### 2. Algorithmic Implementation
 
