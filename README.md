@@ -11,7 +11,6 @@
 
     - Logistic Regression from scratch
     - Logistic Regression with libraries
-    - Hyperparameters tuning (L1/L2 regularization)
 
 ### 3. Performance Analysis
 
@@ -19,7 +18,11 @@
     - Precision, Recall, F1-score
     - ROC Curve and AUC
 
-### 4. Advanced Linear Regression
+### 4. Advanced Logistic Regression
 
     - Regularization techniques (L1 & L2)
     - ElasticNet
+    - Feature Engineering & selection
+    - Class Imbalance Handling
+    - Handling Non-Linear Decision Boundaries
+    - Bayesian Logistic Regression
